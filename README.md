@@ -8,4 +8,5 @@ fork from 233boy
 
 执行如下命令：
 
-`bash <(wget -qO- -o- https://raw.githubusercontent.com/zcong2008/v2ray/master/install.sh)`
+```
+bash <(wget -qO- -o- https://raw.githubusercontent.com/zcong2008/v2ray/master/install.sh)

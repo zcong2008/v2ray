@@ -1572,7 +1572,7 @@ footer_msg() {
     [[ $is_caddy_stop && $host ]] && warn "Caddy 当前处于停止状态."
     ####### 只是为了自已方便使用 #######
     unset c n m s b
-    msg "------------- END -------------"
+    msg "------------- 部署成功，复置上面的链接！ -------------"
     msg
 #    msg "此脚本托管于：$(msg_ul https://github.com/zcong2008/v2ray/)"
     printf "管理面板命令为：" 
